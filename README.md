@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @infoblogger
-- 👀 I’m interested in New Technologies
-- 🌱 I’m currently learning ... App Developement
-
 [BEST SEO AGENCY](https://randomx.io)
+
+![This is an image](https://media.istockphoto.com/photos/search-engine-optimization-picture-id1165708024?k=20&m=1165708024&s=612x612&w=0&h=gt4R-4gpnlDWHZqt1rr8SZnjDriiKSN_pdcMmtEmNvk=)
 
 You have already created and published your new website. Great! Now, it was time for the public to visit her. Normally, most of the traffic to a web page comes from search engines like Google, Yahoo or Bing. Search engine optimization (or SEO) is about making adjustments to your website to increase the chances that it will appear among the first search results when the topics are relevant.
 
